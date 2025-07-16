@@ -1,4 +1,6 @@
 #🚦Traffic Sign Recognition
+
+
 This project implements a Traffic Sign Recognition system using deep learning. It identifies and classifies traffic signs from images, enabling applications like autonomous driving, driver assistance systems, and smart city infrastructure.
 
 #⚙️ Technologies Used
